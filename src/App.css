@@ -1,0 +1,6 @@
+header a {
+	padding: 0.3em 1em;
+}
+header a.active {
+	background-color: hotpink;
+}
